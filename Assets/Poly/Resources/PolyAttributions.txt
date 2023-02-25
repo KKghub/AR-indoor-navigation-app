@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Arrow
+Author: Max Level
+URL: https://poly.google.com/view/1TUCDmHZKQY
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Map Marker 📍
+Author: Chris Ross
+URL: https://poly.google.com/view/6ij4nru_NPh
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

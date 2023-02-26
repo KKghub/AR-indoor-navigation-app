@@ -62,7 +62,7 @@ sysinfo.txt
 *.app
 
 # Build APK for reference
-!/APK/*
+!/Demo/*
 
 # Crashlytics generated file
 crashlytics-build.properties

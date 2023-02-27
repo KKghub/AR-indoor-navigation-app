@@ -1,5 +1,5 @@
-# Indoor Navigation using Augmented Reallity
-This project demonstrate the capability of Augmented Reality to place virtual markers simlar to maps in the real world.
+# Indoor Navigation using Augmented Reality
+This project demonstrates the capability of Augmented Reality to place virtual markers simlar to maps in the real world.
 
 The mobile app is built using Unity, C# with Google ARCore library.
 

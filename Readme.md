@@ -4,4 +4,4 @@ This project demonstrates the capability of Augmented Reality to place virtual m
 The mobile app is built using Unity, C# with Google ARCore library.
 
 ### Demo
-[![Indoor Navigation using AR](/Demo/indoor_nav_yt_thumbnail.png)](https://www.youtube.com/watch?v=ijEHcLCfpSg)
+[![Indoor Navigation using AR](/Demo/indoor_nav_yt_without_watermark.png)](https://www.youtube.com/watch?v=ijEHcLCfpSg)
